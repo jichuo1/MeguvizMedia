@@ -1,0 +1,1197 @@
+[
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\build.stdout.txt",
+    "size": 568,
+    "sha256": "595341bbff456b4cf8e521b40a19ad5e0314cf531fb42159a908de3c4d80d038"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\configure.stdout.txt",
+    "size": 1261,
+    "sha256": "f86eae7c8bf6e27f51393c0f2485f94a704e07dbf767e0fd3b1df1263b386c46"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\include\\meguviz\\compute.h",
+    "size": 8879,
+    "sha256": "7091507589a1f16b473d6832c67436e6a323c87d2a2c38338442ea04abb60c60"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\include\\meguviz\\compute_android.h",
+    "size": 1194,
+    "sha256": "86c1646eb2f6220af01fc521a8b05e4c0fb088ab37a2df8dc99d11de0128d2b4"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\include\\meguviz\\kernels.h",
+    "size": 1329,
+    "sha256": "f4526da6a6885fc97a14d3274518ed06467b77992f08cd75cd0341ea51f8e8b0"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\include\\meguviz\\media.h",
+    "size": 4013,
+    "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\include\\meguviz\\media_rife.h",
+    "size": 405,
+    "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\include\\meguviz\\timeline.h",
+    "size": 2843,
+    "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizCompute\\build-info.json",
+    "size": 1365,
+    "sha256": "78b9215906ebf2074f3cb8634814902cf9010155128582cbaca969d40540af69"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeConfig.cmake",
+    "size": 1421,
+    "sha256": "2454a455583941f37b405139ec44515b16480be2e6eee4a260ce4e08122adf37"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "c626df80d51f26a450ee36ae47e466121b32f0a9a98894687c0b7edc332170c4"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeTargets-release.cmake",
+    "size": 920,
+    "sha256": "7e53af2a4d3192401e615c142213087cf846b821f0e7bfa3d451b9304a121f3c"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeTargets.cmake",
+    "size": 4548,
+    "sha256": "270e8ff2ec4392aaae08261661ec19ba1c2327b8bad3ee9d79f4c04b839a3158"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfig.cmake",
+    "size": 1200,
+    "sha256": "3de98295e57217a240df5ab4276ddf6a98a8bc3fac98abe6d35ff0abf91b4ed8"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "c626df80d51f26a450ee36ae47e466121b32f0a9a98894687c0b7edc332170c4"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets-release.cmake",
+    "size": 906,
+    "sha256": "4609bef8a2a7855707eaa247851a39657adac96c1be818c39fc4d93fb08dd8af"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets.cmake",
+    "size": 5124,
+    "sha256": "ef0530deaa2359236425ee511f612b6402c04b6ffa77bc9f65fba86a69377ffb"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\libmeguviz_compute_core.a",
+    "size": 871468,
+    "sha256": "9d081e656b041033debb1fa869791408cc4a18c176911ac4a68fc2c0c87005f3"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\libmeguviz_media_core.a",
+    "size": 393664,
+    "sha256": "28d2de30903e9a25d7569daac498b0fd3e4a555920ceba205eb792bbd3ceb69d"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\share\\MeguvizCompute\\ncnn.lock.json",
+    "size": 454,
+    "sha256": "085e0bf62860d25c7becc808e4e445269f264e8fc511467fc986d0e7e172c5db"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\share\\MeguvizCompute\\NOTICE.md",
+    "size": 425,
+    "sha256": "38a0d81b27a11d909f9a42ffc849b17815ba86344c10bef79e7811738527d44e"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\share\\MeguvizMedia\\LICENSE",
+    "size": 35823,
+    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install\\share\\MeguvizMedia\\NOTICE.md",
+    "size": 634,
+    "sha256": "d6a9abb90563b602972e6886c871bb90e1f19296597cf3768e89e55bd3db7fe7"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-arm64-v8a\\install.stdout.txt",
+    "size": 2956,
+    "sha256": "46de880e10b422556334a18c04a48fdc5e8a1f325736a53bd209753197abf2b2"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\build.stdout.txt",
+    "size": 568,
+    "sha256": "595341bbff456b4cf8e521b40a19ad5e0314cf531fb42159a908de3c4d80d038"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\configure.stdout.txt",
+    "size": 1263,
+    "sha256": "43cdb7997fabd1d82bb42f016bfd59d6db0e9fde269b9c6641767f92a5002da7"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\compute.h",
+    "size": 8879,
+    "sha256": "7091507589a1f16b473d6832c67436e6a323c87d2a2c38338442ea04abb60c60"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\compute_android.h",
+    "size": 1194,
+    "sha256": "86c1646eb2f6220af01fc521a8b05e4c0fb088ab37a2df8dc99d11de0128d2b4"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\kernels.h",
+    "size": 1329,
+    "sha256": "f4526da6a6885fc97a14d3274518ed06467b77992f08cd75cd0341ea51f8e8b0"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\media.h",
+    "size": 4013,
+    "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\media_rife.h",
+    "size": 405,
+    "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\timeline.h",
+    "size": 2843,
+    "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\build-info.json",
+    "size": 1413,
+    "sha256": "ceb4ad7696b2a8e1a14f74359f72551ba9f54ad1bc97d8bf7e1f13915b27bf68"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeConfig.cmake",
+    "size": 1421,
+    "sha256": "2454a455583941f37b405139ec44515b16480be2e6eee4a260ce4e08122adf37"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "335dedd39b9f48a73db107bd07125c5801dfc2c6f59c3e4f1cd103c25288df06"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeTargets-release.cmake",
+    "size": 920,
+    "sha256": "7e53af2a4d3192401e615c142213087cf846b821f0e7bfa3d451b9304a121f3c"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeTargets.cmake",
+    "size": 4548,
+    "sha256": "270e8ff2ec4392aaae08261661ec19ba1c2327b8bad3ee9d79f4c04b839a3158"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfig.cmake",
+    "size": 1200,
+    "sha256": "3de98295e57217a240df5ab4276ddf6a98a8bc3fac98abe6d35ff0abf91b4ed8"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "335dedd39b9f48a73db107bd07125c5801dfc2c6f59c3e4f1cd103c25288df06"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets-release.cmake",
+    "size": 906,
+    "sha256": "4609bef8a2a7855707eaa247851a39657adac96c1be818c39fc4d93fb08dd8af"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets.cmake",
+    "size": 5124,
+    "sha256": "ef0530deaa2359236425ee511f612b6402c04b6ffa77bc9f65fba86a69377ffb"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\libmeguviz_compute_core.a",
+    "size": 600312,
+    "sha256": "d3e10267385a6c6a813da46b1f568f6cf963a48c4271b51deefd691ad001ec41"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\libmeguviz_media_core.a",
+    "size": 289064,
+    "sha256": "e027bbd151d3d65262fd4f924e1d9c270b0b13283afc8ee292c3a7ee001613c9"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizCompute\\ncnn.lock.json",
+    "size": 454,
+    "sha256": "085e0bf62860d25c7becc808e4e445269f264e8fc511467fc986d0e7e172c5db"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizCompute\\NOTICE.md",
+    "size": 425,
+    "sha256": "38a0d81b27a11d909f9a42ffc849b17815ba86344c10bef79e7811738527d44e"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizMedia\\LICENSE",
+    "size": 35823,
+    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizMedia\\NOTICE.md",
+    "size": 634,
+    "sha256": "d6a9abb90563b602972e6886c871bb90e1f19296597cf3768e89e55bd3db7fe7"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-armeabi-v7a\\install.stdout.txt",
+    "size": 3006,
+    "sha256": "03ebc10274db586ba5e6afd7cf1738287ea21a514a9f2efb11f194a087bebafa"
+  },
+  {
+    "path": "artifacts\\M1\\android-commands.jsonl",
+    "size": 4600,
+    "sha256": "92ea30dea8b2b101819eedd466a6d7224991e734f81291c83e8d13dc51161aee"
+  },
+  {
+    "path": "artifacts\\M1\\android-gradle-failed-prefix.stderr.txt",
+    "size": 26392,
+    "sha256": "9fce8de253719839e5ae1bb00fe25b8b4174fd03a08a22b63284fb469e68c1c8"
+  },
+  {
+    "path": "artifacts\\M1\\android-gradle-failed-prefix.stdout.txt",
+    "size": 2638,
+    "sha256": "09f5177778a4b06388cec8fa2f0bab95d3d84e27330a7899e07eb708432ba2b3"
+  },
+  {
+    "path": "artifacts\\M1\\android-gradle-failed-sourceset.stderr.txt",
+    "size": 1621,
+    "sha256": "a47b263061c04b9ae08fd463a9d2172e33675b6630821a592cb983642a2ed004"
+  },
+  {
+    "path": "artifacts\\M1\\android-gradle-failed-sourceset.stdout.txt",
+    "size": 1136,
+    "sha256": "35067e605110ea07b8bc63ffa059a637dda68e8182be167a7ee85a41fc1c7a68"
+  },
+  {
+    "path": "artifacts\\M1\\android-gradle.stderr.txt",
+    "size": 744,
+    "sha256": "febaa19af109a66dbdec90511981cc9129634aab4c2faaa31906ec2369d524e6"
+  },
+  {
+    "path": "artifacts\\M1\\android-gradle.stdout.txt",
+    "size": 7878,
+    "sha256": "6f9efbffd6efa59ca77110cf1c562f1a51c6cfdd8eb604a0c77dd13ddaf803a0"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\api-classes.jar",
+    "size": 2278,
+    "sha256": "88d31cc192fb4ccc942687d50c603b2a75de2904fc7f684029776149de68b0ab"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\api_bytecode.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\api_bytecode.stdout.txt",
+    "size": 4401,
+    "sha256": "9f41556ab55d84edb42645dfb5f4d786f3f74c56c1a2e8f9f26dda8a7d63edd3"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\apk_zip_alignment.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\apk_zip_alignment.stdout.txt",
+    "size": 1206,
+    "sha256": "5bda37a0d9c18e615a5a33e5f8606ddb29f261f1a7a03aec756385b3b57c5d12"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\arm64-v8a_dynamic.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\arm64-v8a_dynamic.stdout.txt",
+    "size": 1379,
+    "sha256": "89be8f721eab7c1a6f238bc04430eb2b7718c5ba897ed3d0fd302e2c9ae446a7"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\arm64-v8a_program_headers.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\arm64-v8a_program_headers.stdout.txt",
+    "size": 1633,
+    "sha256": "47f0765e1babb60be0c9665a8eb10255779e527eb50708a43951649360221198"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\arm64-v8a_symbols.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\arm64-v8a_symbols.stdout.txt",
+    "size": 4919,
+    "sha256": "340660f8dbd617d6bda654c401d643656b4ec6188db60a2f8ba0a6f06c8e843d"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\armeabi-v7a_dynamic.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\armeabi-v7a_dynamic.stdout.txt",
+    "size": 1146,
+    "sha256": "b74666f28012f23b208c2f5289ed311e1166a484088bfdc73f73ece7891aa035"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\armeabi-v7a_program_headers.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\armeabi-v7a_program_headers.stdout.txt",
+    "size": 1470,
+    "sha256": "907fae768e1509396c7b34b7de9b55d1291a291c5040d6e8f705859318a58aa9"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\armeabi-v7a_symbols.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\armeabi-v7a_symbols.stdout.txt",
+    "size": 4127,
+    "sha256": "369d134b1880d7cb6c7199342cfc93fb693a55753237e3193c9fb83b82823176"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\commands.json",
+    "size": 3092,
+    "sha256": "8305a55efd514c219829d064e063e7d2e82bb5cb1d9933f494eddb7579e09b93"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\native-payload\\arm64-v8a\\libmeguviz_media_identity.so",
+    "size": 81112,
+    "sha256": "33bcbe09e489930d009e1123fa9c0f890089863592f3b93621f5e96b5a668599"
+  },
+  {
+    "path": "artifacts\\M1\\android-package\\native-payload\\armeabi-v7a\\libmeguviz_media_identity.so",
+    "size": 47696,
+    "sha256": "e785b468e8d593d8ce8c75d62b9e2c1f717716707a216a829429d53cde77d68f"
+  },
+  {
+    "path": "artifacts\\M1\\build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\build.stdout.txt",
+    "size": 573,
+    "sha256": "7c2983d3f97e77fc6306e170c8fb6e89b9b92f5e5983aefdc68dcedc88f05779"
+  },
+  {
+    "path": "artifacts\\M1\\commands.jsonl",
+    "size": 7579,
+    "sha256": "ca823f310b66ce06af3f2139844e2d19a0d7a721326c4bf727b24d18b4a750e7"
+  },
+  {
+    "path": "artifacts\\M1\\configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\configure.stdout.txt",
+    "size": 139,
+    "sha256": "f98a299fbffebd160fbd8df9592bc445d1f2f251d7333a0a08a73176547471ee"
+  },
+  {
+    "path": "artifacts\\M1\\cpp_delayed.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\cpp_delayed.stdout.txt",
+    "size": 479,
+    "sha256": "c8d7accfa048448acb62a71a686d0f972ee139dcb409bf2ff093d77f1661e1c1"
+  },
+  {
+    "path": "artifacts\\M1\\cpp_normal.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\cpp_normal.stdout.txt",
+    "size": 469,
+    "sha256": "6493f5a612dcc0b7f1682072b43b7ca97d516820c87e11cf542366478653d2a8"
+  },
+  {
+    "path": "artifacts\\M1\\ctest.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\ctest.stdout.txt",
+    "size": 442,
+    "sha256": "7ab7b0d2d4770d782ae434640cea45d5249774b28d3b84679e008d396cf3a648"
+  },
+  {
+    "path": "artifacts\\M1\\external_build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\external_build.stdout.txt",
+    "size": 49,
+    "sha256": "a989502b79f741d6c13a75dfa321317834c9eeef1dc190743fbe909f1ae0facb"
+  },
+  {
+    "path": "artifacts\\M1\\external_configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\external_configure.stdout.txt",
+    "size": 133,
+    "sha256": "cc14540a4b42fb1ae6f8cf6838767c5e1cc282b661224fe79514344c4d9013ee"
+  },
+  {
+    "path": "artifacts\\M1\\external_run.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\external_run.stdout.txt",
+    "size": 62,
+    "sha256": "8a182bb2715e70dc0aa96ce64c571a2252a7f383e550376ba5ba2040e1a86d0d"
+  },
+  {
+    "path": "artifacts\\M1\\install\\include\\meguviz\\compute.h",
+    "size": 8879,
+    "sha256": "7091507589a1f16b473d6832c67436e6a323c87d2a2c38338442ea04abb60c60"
+  },
+  {
+    "path": "artifacts\\M1\\install\\include\\meguviz\\compute_android.h",
+    "size": 1194,
+    "sha256": "86c1646eb2f6220af01fc521a8b05e4c0fb088ab37a2df8dc99d11de0128d2b4"
+  },
+  {
+    "path": "artifacts\\M1\\install\\include\\meguviz\\kernels.h",
+    "size": 1329,
+    "sha256": "f4526da6a6885fc97a14d3274518ed06467b77992f08cd75cd0341ea51f8e8b0"
+  },
+  {
+    "path": "artifacts\\M1\\install\\include\\meguviz\\media.h",
+    "size": 4013,
+    "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+  },
+  {
+    "path": "artifacts\\M1\\install\\include\\meguviz\\media_rife.h",
+    "size": 405,
+    "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+  },
+  {
+    "path": "artifacts\\M1\\install\\include\\meguviz\\timeline.h",
+    "size": 2843,
+    "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizCompute\\build-info.json",
+    "size": 1049,
+    "sha256": "f796dfda033f4b98ce085b371aabdfcfafd4bf913cc20c4a32e06c12bb6292fa"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeConfig.cmake",
+    "size": 1833,
+    "sha256": "89ac4e4f1b399e828129ef0d3d31c5721d6e927eaa2bc7b3c4d3314db8f7cc16"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "c626df80d51f26a450ee36ae47e466121b32f0a9a98894687c0b7edc332170c4"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeTargets-release.cmake",
+    "size": 918,
+    "sha256": "5b4d60522c03e87cbb872631108306d3bbdd4cd3864f935c66eea1ac1634fe09"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeTargets.cmake",
+    "size": 4547,
+    "sha256": "23c9cc2c6af43cafa4a89fe2438e01f0adad8f891218d08a974115e563ba1c66"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfig.cmake",
+    "size": 1200,
+    "sha256": "3de98295e57217a240df5ab4276ddf6a98a8bc3fac98abe6d35ff0abf91b4ed8"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "c626df80d51f26a450ee36ae47e466121b32f0a9a98894687c0b7edc332170c4"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets-release.cmake",
+    "size": 904,
+    "sha256": "3339913f639018ab489b558d006b3cf209af1b5948562f0cd145039320ec908a"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets.cmake",
+    "size": 5123,
+    "sha256": "d538917d9b818489446f4c9c8cb163d53c5abf3130f0e9adf09126b66e698522"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\meguviz_compute_core.lib",
+    "size": 589508,
+    "sha256": "d6790d12aa7b56234b48f4b7fbbfd1f25baed0cc19a8c0131d0e6d0a99eee9a6"
+  },
+  {
+    "path": "artifacts\\M1\\install\\lib\\meguviz_media_core.lib",
+    "size": 211560,
+    "sha256": "9c2887195cd91066405f72cabb2e870d09f4938e4a972754e16b92fc6bca7774"
+  },
+  {
+    "path": "artifacts\\M1\\install\\share\\MeguvizCompute\\LICENSE",
+    "size": 1071,
+    "sha256": "de0ff48d4a5e2df2299de5c3233091567f5112dcc48c7593e98d77db543591a1"
+  },
+  {
+    "path": "artifacts\\M1\\install\\share\\MeguvizCompute\\ncnn.lock.json",
+    "size": 454,
+    "sha256": "085e0bf62860d25c7becc808e4e445269f264e8fc511467fc986d0e7e172c5db"
+  },
+  {
+    "path": "artifacts\\M1\\install\\share\\MeguvizCompute\\NOTICE.md",
+    "size": 425,
+    "sha256": "38a0d81b27a11d909f9a42ffc849b17815ba86344c10bef79e7811738527d44e"
+  },
+  {
+    "path": "artifacts\\M1\\install\\share\\MeguvizCompute\\SBOM.json",
+    "size": 744,
+    "sha256": "d2683a39f2b75826ec4200947f1aa7ca98e343c617451bb593d75cddf66d4e1b"
+  },
+  {
+    "path": "artifacts\\M1\\install\\share\\MeguvizCompute\\shaderpack\\shaderpack.schema.json",
+    "size": 4154,
+    "sha256": "e18d92e7ef67961412e48c4c7774ad9fa4c3977855b1db9e81051b89691a83df"
+  },
+  {
+    "path": "artifacts\\M1\\install\\share\\MeguvizCompute\\shaderpack\\source.lock.json",
+    "size": 202,
+    "sha256": "38221d4c4883ff5a4949debe84718cbb19989da8c75443ba6938729efbaf5284"
+  },
+  {
+    "path": "artifacts\\M1\\install\\share\\MeguvizMedia\\LICENSE",
+    "size": 35823,
+    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+  },
+  {
+    "path": "artifacts\\M1\\install\\share\\MeguvizMedia\\NOTICE.md",
+    "size": 634,
+    "sha256": "d6a9abb90563b602972e6886c871bb90e1f19296597cf3768e89e55bd3db7fe7"
+  },
+  {
+    "path": "artifacts\\M1\\install.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\install.stdout.txt",
+    "size": 3020,
+    "sha256": "2c1d78dc621ce8780b288dff369609b6448d168f912c05432cd51dfe722b82b4"
+  },
+  {
+    "path": "artifacts\\M1\\kotlin_delayed.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\kotlin_delayed.stdout.txt",
+    "size": 479,
+    "sha256": "c8d7accfa048448acb62a71a686d0f972ee139dcb409bf2ff093d77f1661e1c1"
+  },
+  {
+    "path": "artifacts\\M1\\kotlin_normal.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\kotlin_normal.stdout.txt",
+    "size": 469,
+    "sha256": "6493f5a612dcc0b7f1682072b43b7ca97d516820c87e11cf542366478653d2a8"
+  },
+  {
+    "path": "artifacts\\M1\\kotlin_oracle_compile.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\kotlin_oracle_compile.stdout.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\latest-rife.json",
+    "size": 197,
+    "sha256": "d5f06272b2cd79ecc28286f0c155d653467a0cbd432e9d91e6885984143f8cdf"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\adapter.stderr.txt",
+    "size": 44,
+    "sha256": "99c2740679570430ec860cf9a77297b61f5607218e64e5060bb932f84462ea2b"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\adapter.stdout.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\build.stdout.txt",
+    "size": 985,
+    "sha256": "62bff719565ca20dc1c2a10772143385fbbf7c4141a4eea1233a85b455da73e4"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\commands.jsonl",
+    "size": 1874,
+    "sha256": "a2d2d48cb6931072ff3a741ecf6e5660628f9cd77e5c5a6b9fff88edf06a4bd3"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\configure.stdout.txt",
+    "size": 1168,
+    "sha256": "a7695d64ec044726f1f3b9d10947e4c42aa88f39c32f2c0e6179fe02840f9938"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\ctest.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074039725802Z\\ctest.stdout.txt",
+    "size": 339,
+    "sha256": "d05ade3368d924ec921a50f7c42149295a97e8598046a8c6b2480ddeb5d99646"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\adapter.stderr.txt",
+    "size": 113,
+    "sha256": "09cd96b1016203be468c65fc0463c15d7aea7b74c2a531c5a5fa33e410ed5ef1"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\adapter.stdout.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\build.stdout.txt",
+    "size": 147,
+    "sha256": "7599a85883b8dacf203cd532fb87c04740755506b350edf6949de66737f96bf6"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\commands.jsonl",
+    "size": 1874,
+    "sha256": "6235259dbc6a9fc7ca9a3c5261038efbb7bf3c72e2a461ad030a435249cee5ec"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\configure.stdout.txt",
+    "size": 158,
+    "sha256": "00c2149cea6da0cfb16673f01451153106ed40e94bd39151de28a7805064161b"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\ctest.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074258132039Z\\ctest.stdout.txt",
+    "size": 339,
+    "sha256": "f1f967c15088792a6ae8b90fd1c89dab0c980cd30ad06810cb9e7fd7874c4c26"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\adapter.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\adapter.stdout.txt",
+    "size": 152,
+    "sha256": "91201bd4d9b3763bd00b5a8298ae20bcf0364831bc5b6316f8362fcb607a13c7"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\approved-exports.def",
+    "size": 1274,
+    "sha256": "bec9667fbec393a9e71807c6d067798463a343f02f8c430da2178b7c98e40700"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\build.stdout.txt",
+    "size": 389,
+    "sha256": "f60547e2af866acacecbdcdc97810fec95b200d2605141d3919f5ae59587b990"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\commands.jsonl",
+    "size": 4462,
+    "sha256": "e5ac029d17b67866b614ed95e430c73008cb6ac70f0eb1afeef798ad8958c919"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\composition_build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\composition_build.stdout.txt",
+    "size": 150,
+    "sha256": "cd5936f3d7f42dd1bf6ec1a7cc6a43118f248716a976970c73b0df304b187521"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\composition_configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\composition_configure.stdout.txt",
+    "size": 1175,
+    "sha256": "4b4041a71b3a341aca8e0a79d2f41304bb2e69574aeb6e3f63b4166bf149f042"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\composition_dependencies.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\composition_dependencies.stdout.txt",
+    "size": 476,
+    "sha256": "74a4728870ddc664e0f291ac4887ac064a4cfcc650cdb50e520db84e681e2dcf"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\composition_exports.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\composition_exports.stdout.txt",
+    "size": 3633,
+    "sha256": "32915f9b57757f890144c7c66fa737cf9bc75333e2317bcf07b9bb709d0ef282"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\configure.stdout.txt",
+    "size": 158,
+    "sha256": "00c2149cea6da0cfb16673f01451153106ed40e94bd39151de28a7805064161b"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\ctest.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\ctest.stdout.txt",
+    "size": 339,
+    "sha256": "683117349dc26882b6ca8280756184fc35dc95fb8e9740cc12ac4a603e8137a9"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\include\\meguviz\\media.h",
+    "size": 4013,
+    "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\include\\meguviz\\media_rife.h",
+    "size": 405,
+    "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\include\\meguviz\\timeline.h",
+    "size": 2843,
+    "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfig.cmake",
+    "size": 1199,
+    "sha256": "d724ac004507964f8c24b8c4881a9f4185471e51a24755a67b42b1e3d3f5bd0c"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "c626df80d51f26a450ee36ae47e466121b32f0a9a98894687c0b7edc332170c4"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets-release.cmake",
+    "size": 1505,
+    "sha256": "b568dd1441b0a2ca2111d229b2c721e88390f42dacf8598e6da7ef909d347beb"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets.cmake",
+    "size": 4603,
+    "sha256": "58f1bdc079b57e09663095bf69645fa6cbf299d7dff657146bc4e777bdbb77c0"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\lib\\meguviz_media_core.lib",
+    "size": 206086,
+    "sha256": "e41a9247e9d7f3ba1828d9476ece20479a2c33bd4dcf65dae464c349bba4610e"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\lib\\meguviz_media_rife_integration.lib",
+    "size": 20770,
+    "sha256": "a821b91961130ab6d0bb8c8069d4fe482d39cb3170ebca6decac3a204526eceb"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\share\\MeguvizMedia\\LICENSE",
+    "size": 35823,
+    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install\\share\\MeguvizMedia\\NOTICE.md",
+    "size": 634,
+    "sha256": "d6a9abb90563b602972e6886c871bb90e1f19296597cf3768e89e55bd3db7fe7"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\install.stdout.txt",
+    "size": 1667,
+    "sha256": "8dc635f8ce7524a2c283a0c993ee8e9bd2fd149f1529be2a4a18f6e2b15de56a"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T074913716585Z\\summary.json",
+    "size": 2423,
+    "sha256": "9b5d7edc627d5fdbb0e6143284733168b60d883a319872aa74e4412d0ba83b6d"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\adapter.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\adapter.stdout.txt",
+    "size": 152,
+    "sha256": "91201bd4d9b3763bd00b5a8298ae20bcf0364831bc5b6316f8362fcb607a13c7"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\approved-exports.def",
+    "size": 1274,
+    "sha256": "bec9667fbec393a9e71807c6d067798463a343f02f8c430da2178b7c98e40700"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\build.stdout.txt",
+    "size": 232,
+    "sha256": "9e11476924ad12c285999bc520722c32f6ecd7949f3083b48edffe71f39a0695"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\commands.jsonl",
+    "size": 4462,
+    "sha256": "57749743fdb88158ea98bca3a2039da0a3fec5569149a34e5ca92ebad5959fce"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\composition_build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\composition_build.stdout.txt",
+    "size": 66,
+    "sha256": "1bc636feb0c17437393df5467fe17b15baf04b0adcce95ae43d526297788bd8d"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\composition_configure.stderr.txt",
+    "size": 101,
+    "sha256": "b6aa924b2079ce1b40d1f5b653e4b49bef7c615794d606801b6c775f6fe79f87"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\composition_configure.stdout.txt",
+    "size": 165,
+    "sha256": "4b423ae9cf7ce008a51c84f6ff19cf81be7242e0ea6b2cd477050851be80fc70"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\composition_dependencies.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\composition_dependencies.stdout.txt",
+    "size": 476,
+    "sha256": "74a4728870ddc664e0f291ac4887ac064a4cfcc650cdb50e520db84e681e2dcf"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\composition_exports.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\composition_exports.stdout.txt",
+    "size": 3633,
+    "sha256": "32915f9b57757f890144c7c66fa737cf9bc75333e2317bcf07b9bb709d0ef282"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\configure.stdout.txt",
+    "size": 158,
+    "sha256": "2d8980ab57c83e22d541889fad53f71ff9b945f29dd717a4559c012b9c42ebfa"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\ctest.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\ctest.stdout.txt",
+    "size": 339,
+    "sha256": "5c951af59efdf9ac40b427d1bc87fccffa089c3ac00fc88d69e4890c8f150db0"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\include\\meguviz\\media.h",
+    "size": 4013,
+    "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\include\\meguviz\\media_rife.h",
+    "size": 405,
+    "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\include\\meguviz\\timeline.h",
+    "size": 2843,
+    "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfig.cmake",
+    "size": 1199,
+    "sha256": "d724ac004507964f8c24b8c4881a9f4185471e51a24755a67b42b1e3d3f5bd0c"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "c626df80d51f26a450ee36ae47e466121b32f0a9a98894687c0b7edc332170c4"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets-release.cmake",
+    "size": 1505,
+    "sha256": "b568dd1441b0a2ca2111d229b2c721e88390f42dacf8598e6da7ef909d347beb"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets.cmake",
+    "size": 4603,
+    "sha256": "58f1bdc079b57e09663095bf69645fa6cbf299d7dff657146bc4e777bdbb77c0"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\lib\\meguviz_media_core.lib",
+    "size": 206086,
+    "sha256": "e41a9247e9d7f3ba1828d9476ece20479a2c33bd4dcf65dae464c349bba4610e"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\lib\\meguviz_media_rife_integration.lib",
+    "size": 20760,
+    "sha256": "a9670a520a1b002154c236ed5b4e0660d42d5804a0bd88fb4ffbd91a4fc05ac0"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\share\\MeguvizMedia\\LICENSE",
+    "size": 35823,
+    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install\\share\\MeguvizMedia\\NOTICE.md",
+    "size": 634,
+    "sha256": "d6a9abb90563b602972e6886c871bb90e1f19296597cf3768e89e55bd3db7fe7"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\install.stdout.txt",
+    "size": 1667,
+    "sha256": "1209d63eb03735e9bf46952a45b95d3bb78a13c4ab6c74bca714ef11de0eb763"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T075309114285Z\\summary.json",
+    "size": 2423,
+    "sha256": "7d26fc9a7a6ad4e0f92d223710c3848c091dd5176383ed41e9ada4193c82e804"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\adapter.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\adapter.stdout.txt",
+    "size": 152,
+    "sha256": "91201bd4d9b3763bd00b5a8298ae20bcf0364831bc5b6316f8362fcb607a13c7"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\approved-exports.def",
+    "size": 1274,
+    "sha256": "bec9667fbec393a9e71807c6d067798463a343f02f8c430da2178b7c98e40700"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\build.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\build.stdout.txt",
+    "size": 776,
+    "sha256": "57c5aadf57b27311a1a2421095f2d7a1b7cbeda120f810613dd0df9f10174a5a"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\commands.jsonl",
+    "size": 4033,
+    "sha256": "ae76d4cf83b7bd72761ce580910c0651a888803ee4b105463ee93fe4837bcad2"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\composition_configure.stderr.txt",
+    "size": 101,
+    "sha256": "b6aa924b2079ce1b40d1f5b653e4b49bef7c615794d606801b6c775f6fe79f87"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\composition_configure.stdout.txt",
+    "size": 165,
+    "sha256": "4b423ae9cf7ce008a51c84f6ff19cf81be7242e0ea6b2cd477050851be80fc70"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\configure.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\configure.stdout.txt",
+    "size": 158,
+    "sha256": "0a7423046559b6b0ba35afa6dcd494bcc474e4c2c096c142f268b100dd5e31ef"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\ctest.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\ctest.stdout.txt",
+    "size": 437,
+    "sha256": "fd6629575199411589372355aca2060a0e2e7f87a7d6bd059a9336514e65af7b"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\include\\meguviz\\media.h",
+    "size": 4013,
+    "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\include\\meguviz\\media_rife.h",
+    "size": 405,
+    "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\include\\meguviz\\timeline.h",
+    "size": 2843,
+    "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfig.cmake",
+    "size": 1199,
+    "sha256": "d724ac004507964f8c24b8c4881a9f4185471e51a24755a67b42b1e3d3f5bd0c"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfigVersion.cmake",
+    "size": 2827,
+    "sha256": "c626df80d51f26a450ee36ae47e466121b32f0a9a98894687c0b7edc332170c4"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets-release.cmake",
+    "size": 1505,
+    "sha256": "b568dd1441b0a2ca2111d229b2c721e88390f42dacf8598e6da7ef909d347beb"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets.cmake",
+    "size": 4603,
+    "sha256": "58f1bdc079b57e09663095bf69645fa6cbf299d7dff657146bc4e777bdbb77c0"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\lib\\meguviz_media_core.lib",
+    "size": 211548,
+    "sha256": "6f0093acbb2f470fb0e2ec11b83125b4efcf5259e5335ceaeadadb0684d2f1d2"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\lib\\meguviz_media_rife_integration.lib",
+    "size": 25142,
+    "sha256": "62d99cc6e17694782bf89e599ac6e5a7ca6a1cf054f3b897bece9b13e5f17c09"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\share\\MeguvizMedia\\LICENSE",
+    "size": 35823,
+    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install\\share\\MeguvizMedia\\NOTICE.md",
+    "size": 634,
+    "sha256": "d6a9abb90563b602972e6886c871bb90e1f19296597cf3768e89e55bd3db7fe7"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install.stderr.txt",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "artifacts\\M1\\rife-20261028T081324824961Z\\install.stdout.txt",
+    "size": 1667,
+    "sha256": "fbf4b08044a1dbe7136b9d582188a324206bf36272e9f20b7543d6c9f72ec97c"
+  }
+]

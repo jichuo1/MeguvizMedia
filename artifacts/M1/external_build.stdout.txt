@@ -1,0 +1,2 @@
+[1/2] Building C object CMakeFiles\media_external.dir\main.c.obj
+[2/2] Linking CXX executable media_external.exe

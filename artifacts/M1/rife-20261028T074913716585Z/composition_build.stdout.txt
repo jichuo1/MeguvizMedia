@@ -1,0 +1,2 @@
+[1/2] Building CXX object CMakeFiles\meguviz_composition_fixture.dir\entry.cpp.obj
+[2/2] Linking CXX shared library meguviz_composition_fixture.dll

@@ -1,0 +1,114 @@
+[
+  {
+    "path": "include\\meguviz\\media.h",
+    "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+  },
+  {
+    "path": "include\\meguviz\\media_rife.h",
+    "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+  },
+  {
+    "path": "include\\meguviz\\timeline.h",
+    "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+  },
+  {
+    "path": "src\\core\\media.cpp",
+    "sha256": "60e62f1fcfaa5d7557b72a66838281d386625942036e9c5298ede2eed951ce89"
+  },
+  {
+    "path": "src\\core\\timeline.cpp",
+    "sha256": "c0c91bae88c0c68b1fc9742acc1db3f8ac3c0a67e68c0657a37575bb32b9f2f5"
+  },
+  {
+    "path": "integrations\\rife\\adapter.cpp",
+    "sha256": "34ac52f7020ae497f6c0274dbee44548c2822e650758486b57732bc74bbb1856"
+  },
+  {
+    "path": "bindings\\android\\src\\main\\java\\io\\github\\jichuo1\\meguviz\\media\\MediaNative.java",
+    "sha256": "b271b9c6246195ccc4bbaebef0703af6d5180504559aae1e599691f3515c358f"
+  },
+  {
+    "path": "bindings\\android\\src\\main\\java\\io\\github\\jichuo1\\meguviz\\media\\MediaRuntime.java",
+    "sha256": "838ade3b5938a4f71abc469cbcacd1c7fd26945abdef2e3ead65a59d22e94528"
+  },
+  {
+    "path": "distribution\\android\\CMakeLists.txt",
+    "sha256": "52470ee16a5b9d750d66a4759c9a6a4b5116f2e3467f9d30c995383375678b09"
+  },
+  {
+    "path": "distribution\\android\\identity.exports.map",
+    "sha256": "8da2dd000b05bafa19a70a631fdbeb2c1955dfc894ee946e1f7d277f92ce521f"
+  },
+  {
+    "path": "distribution\\android\\identity_jni.cpp",
+    "sha256": "cbecdac76c7379c57046073490c64edbeb9d164d6237290fe654ce5ce62fe683"
+  },
+  {
+    "path": "distribution\\host\\CMakeLists.txt",
+    "sha256": "7e6a10708c833a49aded550aa4691b9a546674cec626936e9968525761168bdf"
+  },
+  {
+    "path": "distribution\\host\\entry.cpp",
+    "sha256": "014e647ce9d88392a712d7ece0b2c39a863aaed9f2d390f85ab2cc9a3de13269"
+  },
+  {
+    "path": "tests\\abi_guard_pages.cpp",
+    "sha256": "bf171a84dd1dfbc929f74a786d2aa47d7458c5c39c29a1f5a08246990dc793ca"
+  },
+  {
+    "path": "tests\\c_consumer.c",
+    "sha256": "a4cf8112fb4a7533d442c66599d4e0986389a4aa9561468e74f7c1bd3e1d0d47"
+  },
+  {
+    "path": "tests\\oracle\\TimelineOracle.kt",
+    "sha256": "7141784167361c5c2df4d1a67b9b994c5674d3948040b48ebd7a2043f082e0b0"
+  },
+  {
+    "path": "tests\\rife_adapter.cpp",
+    "sha256": "613a8e380c6521fa97223d4dab3279e89c152db31aedf39b08c9bca0871757c4"
+  },
+  {
+    "path": "tests\\timeline.cpp",
+    "sha256": "c4f586cc4570d475970ae37d2cba3364a671282089ab660d3fcb080f29b1dd38"
+  },
+  {
+    "path": "tools\\build_android.py",
+    "sha256": "eca602d606de935dea0a17586ab84b26df4d6eea0aa675b048a0e7299d4adcb3"
+  },
+  {
+    "path": "tools\\inspect_android.py",
+    "sha256": "eeee767d32e821fd34e944eaf8f3bd27145dbbf1157d35b092efbe8d00f13ebc"
+  },
+  {
+    "path": "tools\\refresh_status.py",
+    "sha256": "68d2b91b3081f5974df51700e7e7aa2da62e30eba8cd4a07bc07c4c15a27b244"
+  },
+  {
+    "path": "tools\\run_host.py",
+    "sha256": "bd9d61f688460c9faca75406c0bfaf734e4a1994fd8ad46b068b93e0076d5640"
+  },
+  {
+    "path": "tools\\run_rife.py",
+    "sha256": "104df47fbd5deb10ff099bd0c8f1e680eb9140851b1a933c9102f4a7e32366af"
+  },
+  {
+    "path": "cmake\\MeguvizMediaConfig.cmake.in",
+    "sha256": "e51b7461eb46c30bcc1e21436449e6d10699bde2989e56bce206cd4c79479046"
+  },
+  {
+    "path": "CMakeLists.txt",
+    "sha256": "3e9140be44ad7290d1ed062a716c064b6ded33a3b3f1c20065b1d0eac4e8bd2c"
+  },
+  {
+    "path": "CMakePresets.json",
+    "sha256": "305be4f28a1abc093370bbd3c38d26273b5b9045f21afcb8e81de13acab533a8"
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+  },
+  {
+    "path": "NOTICE.md",
+    "sha256": "d6a9abb90563b602972e6886c871bb90e1f19296597cf3768e89e55bd3db7fe7"
+  }
+]

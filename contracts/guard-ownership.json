@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "profile": "bil-rife-ncnn-android",
+  "entries": [
+    {"behavior":"input_static_scene","owner":"Media policy","migration_status":"LEGACY_ADAPTER_RETAINED_NOT_PORTED_TO_NEW_GPU_PATH"},
+    {"behavior":"input_scene_change","owner":"Media policy","migration_status":"LEGACY_ADAPTER_RETAINED_NOT_PORTED_TO_NEW_GPU_PATH"},
+    {"behavior":"generic_image_summary","owner":"Compute kernels","migration_status":"GPU_PROVIDER_REQUIRED"},
+    {"behavior":"nonfinite_motion_static_detail_tile_patch","owner":"RIFE","migration_status":"REFERENCE_PROFILE_EXCLUDES_UNQUALIFIED_GUARDS"},
+    {"behavior":"deadline_epoch_backpressure","owner":"Media core","migration_status":"HOST_IMPLEMENTED_AND_VERIFIED"},
+    {"behavior":"thermal_and_host_audio_clock","owner":"Media platform and bil HostBridge","migration_status":"HOST_INTEGRATION_REQUIRED"}
+  ]
+}

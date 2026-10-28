@@ -1,0 +1,189 @@
+{
+  "result": "PASS",
+  "scope": "HOST_AND_ANDROID_CPU_REFERENCE_DESCRIPTOR_REVALIDATION",
+  "recorded_utc": "2026-10-28T08:37:27.604890+00:00",
+  "input_contract": "Read exactly the 8-byte header, validate size/major, copy only the declared prefix into a zero-initialized local descriptor, validate flags/reserved, then use the copy",
+  "older_prefix": "Inputs through the last non-reserved field are supported; frame_describe also accepts a header-only caller; undersized mandatory prefixes are rejected",
+  "fixtures": [
+    "8-byte input descriptors end immediately before inaccessible pages",
+    "exact minimum prefix input and SPI output allocations",
+    "unknown major/required_flags and nonzero reserved rejection",
+    "future input tail ignored",
+    "identity accepted callback and ownership with a short request",
+    "RIFE short prepare/API/request with endpoint bitwise and alpha=0.5 inference",
+    "host identity/timeline/installed external C consumer and Kotlin normal/delayed parity",
+    "ARM64/ARMv7 API27 SDK rebuild",
+    "API-only/JNI AAR and processing APK rebuild; payload same bytes; approved exports; ELF/APK 16KB alignment"
+  ],
+  "sources": [
+    {
+      "path": "src\\descriptor.h",
+      "size": 1147,
+      "sha256": "28e66d7b44dc7c033efab67995c9d3a44c114f5d51299f71abd87f3606972190"
+    },
+    {
+      "path": "src\\core\\media.cpp",
+      "size": 9138,
+      "sha256": "46d4893a44be789e764044991c0322ad4b61b536bb0690206ec4109555cec57d"
+    },
+    {
+      "path": "src\\core\\timeline.cpp",
+      "size": 13252,
+      "sha256": "2ce9748433c90f8944353f05d91520af1df3cf13549b7f40575a1e5a15370eab"
+    },
+    {
+      "path": "integrations\\rife\\adapter.cpp",
+      "size": 8028,
+      "sha256": "04dc68dcf1b25abf6a750926830d22fb6d515af48509030ec0b34d97cbe71dbe"
+    },
+    {
+      "path": "include\\meguviz\\media.h",
+      "size": 4327,
+      "sha256": "accf078f1dcb8ca48f90a560764230514d665122c12ff509b94e9e3679b74526"
+    },
+    {
+      "path": "include\\meguviz\\timeline.h",
+      "size": 3008,
+      "sha256": "b695a382ced80dd5f0b0c19f93d2d6725d60cfed4c0c757cc799c24574568a9f"
+    },
+    {
+      "path": "tests\\abi_guard_pages.cpp",
+      "size": 8591,
+      "sha256": "875f04d9aeac18437e35918aed93016002a0d76d9d6c49915800741b268550ae"
+    },
+    {
+      "path": "tests\\descriptor_pages.h",
+      "size": 1965,
+      "sha256": "c94ca2a67b7bcab35b0d6e2c5eba937d9a0c81d6c998a3f0ac4496cd1797bb88"
+    },
+    {
+      "path": "tests\\rife_adapter.cpp",
+      "size": 7927,
+      "sha256": "faa7120c047f80787124cf73332a1390ff9ea67b82c5749d6df7d4f5fb1d8f74"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "artifacts\\M1\\install\\lib\\meguviz_media_core.lib",
+      "size": 218066,
+      "sha256": "e6601593277fb1e160752408f7f73f1b019db84e15e341d01e72c8b5bbad1a0f"
+    },
+    {
+      "path": "artifacts\\M1\\rife-20261028T083141324374Z\\install\\lib\\meguviz_media_core.lib",
+      "size": 218054,
+      "sha256": "1ed59a054d4aad8a02f765b4c7fdd7c57245e4db4690bc05b96bd34492e985a2"
+    },
+    {
+      "path": "artifacts\\M1\\rife-20261028T083141324374Z\\install\\lib\\meguviz_media_rife_integration.lib",
+      "size": 30998,
+      "sha256": "f1b0c7e1cbb29745eb4189ff1d624e634636765db51312dccd874483e3d0b64c"
+    },
+    {
+      "path": "build\\composition-host\\meguviz_composition_fixture.dll",
+      "size": 3278336,
+      "sha256": "70016c9f8101edd985d46354a579f385c6415525454bbe995caac22980d9612b"
+    },
+    {
+      "path": "artifacts\\M1\\android-arm64-v8a\\install\\lib\\libmeguviz_media_core.a",
+      "size": 431984,
+      "sha256": "2835f505750b9321fced72d7e2849a478b37cb3ee566e75dd805fd1ec0374a7a"
+    },
+    {
+      "path": "artifacts\\M1\\android-package\\native-payload\\arm64-v8a\\libmeguviz_media_identity.so",
+      "size": 82152,
+      "sha256": "e30da9100544c42ae7ff44a58f76bb92e9848c2eca53290d9a67b5f09c65350f"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\libmeguviz_media_core.a",
+      "size": 310784,
+      "sha256": "660c5a698f72e5cdd26535bce137d50a5a4806597556bcdb68a0ddfca34040fe"
+    },
+    {
+      "path": "artifacts\\M1\\android-package\\native-payload\\armeabi-v7a\\libmeguviz_media_identity.so",
+      "size": 48464,
+      "sha256": "dfef437021d8330b36cca77d93e3f39530c3262520c5e33cbe7550d14c1d6fe3"
+    },
+    {
+      "path": "android\\media-api\\build\\outputs\\aar\\media-api-release.aar",
+      "size": 2441,
+      "sha256": "b483c49d4fc9c0bd8847d36672f1a2410fc5d8528afa36589dab668792b03a1a"
+    },
+    {
+      "path": "android\\media-jni\\build\\outputs\\aar\\media-jni-release.aar",
+      "size": 67466,
+      "sha256": "17651196a87de6bfe7f763a4b51dd1890da6a7fb47ac287852a2347182d13412"
+    },
+    {
+      "path": "android\\sample-processing\\build\\outputs\\apk\\debug\\sample-processing-debug.apk",
+      "size": 6261603,
+      "sha256": "f8e229de02ae20bc772a447468a6d62fb7f34d9070dca194a87f1c8610a3fbcf"
+    }
+  ],
+  "evidence": [
+    {
+      "path": "artifacts\\M1\\commands.jsonl",
+      "size": 7579,
+      "sha256": "950db0e9ab790709802588004a2c2f86402f52373e28c47ea16e63958568cec9"
+    },
+    {
+      "path": "artifacts\\M1\\ctest.stdout.txt",
+      "size": 442,
+      "sha256": "97bd473d9e868e27b4629cd2e4792fe4af364e987ab7787fe273ae6d546f702c"
+    },
+    {
+      "path": "artifacts\\M1\\ctest-details.stdout.txt",
+      "size": 2408,
+      "sha256": "95b5ba1328e8244a96cc0150670055cfefbeb9abd1e2fcef6dafd60bb68e2e38"
+    },
+    {
+      "path": "artifacts\\M1\\rife-20261028T083141324374Z\\commands.jsonl",
+      "size": 4462,
+      "sha256": "f85687388fe7c396d3802236fc04f1607192a788bde5468d9c070abe8968fb2b"
+    },
+    {
+      "path": "artifacts\\M1\\rife-20261028T083141324374Z\\adapter.stdout.txt",
+      "size": 152,
+      "sha256": "91201bd4d9b3763bd00b5a8298ae20bcf0364831bc5b6316f8362fcb607a13c7"
+    },
+    {
+      "path": "artifacts\\M1\\rife-20261028T083141324374Z\\ctest.stdout.txt",
+      "size": 437,
+      "sha256": "f53f03eb708438b8f189c7499d15e8f402861e60e15f5e544059f7cdbb16f720"
+    },
+    {
+      "path": "artifacts\\M1\\rife-20261028T083141324374Z\\summary.json",
+      "size": 2423,
+      "sha256": "6dbd8ec950aae1042515c04346f3afac6554ed1e8638a4d1a22d6467bb725f83"
+    },
+    {
+      "path": "artifacts\\M1\\android-commands.jsonl",
+      "size": 4600,
+      "sha256": "3f15aa2af9c92eaee409d0c02da1c250c1e56aa5f05509842045bcf95c98a7cd"
+    },
+    {
+      "path": "artifacts\\M1\\android-gradle-command.json",
+      "size": 582,
+      "sha256": "3b8303f59c426b091dc0af33343a746411a49ec106b7ac199375aed0bbfe426c"
+    },
+    {
+      "path": "artifacts\\M1\\android-gradle.stdout.txt",
+      "size": 8744,
+      "sha256": "252c3a3c26f888a166fc91e5d69eed82540256b2396333394d74c6ee09e821d6"
+    },
+    {
+      "path": "artifacts\\M1\\android-package\\manifest.json",
+      "size": 2566,
+      "sha256": "ad245fbd0f02f0e24dfbf283767bcede5d5fd211ab73e8f83ae73c0a28ebce29"
+    }
+  ],
+  "preserved_before_revalidation": "artifacts/M1/before-descriptor-revalidation-20261028T162947",
+  "original_failure": {
+    "path": "D:\\MeguvizPack\\coordination\\review\\abi-boundaries\\unoptimized-results.json",
+    "size": 370,
+    "sha256": "5972f80637196f6f7e4ad52101198ecfe0ef9f2c6d7050cb8a6922bfb7af40e0"
+  },
+  "model_copied_into_packages": false,
+  "device_executed": false,
+  "gpu_qualified": false,
+  "bil_qualified": false
+}

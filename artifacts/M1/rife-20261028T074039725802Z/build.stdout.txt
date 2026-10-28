@@ -1,0 +1,13 @@
+[1/13] Building CXX object CMakeFiles\meguviz_media_rife_integration.dir\integrations\rife\adapter.cpp.obj
+[2/13] Building CXX object CMakeFiles\meguviz_media_core.dir\src\core\media.cpp.obj
+[3/13] Building CXX object CMakeFiles\meguviz_media_core.dir\src\core\timeline.cpp.obj
+[4/13] Building CXX object CMakeFiles\mgm_trace_replay.dir\examples\headless_timeline.cpp.obj
+[5/13] Linking CXX static library meguviz_media_core.lib
+[6/13] Linking CXX static library meguviz_media_rife_integration.lib
+[7/13] Building C object CMakeFiles\mgm_c_consumer.dir\tests\c_consumer.c.obj
+[8/13] Linking CXX executable mgm_trace_replay.exe
+[9/13] Building CXX object CMakeFiles\mgm_timeline_contracts.dir\tests\timeline.cpp.obj
+[10/13] Linking CXX executable mgm_c_consumer.exe
+[11/13] Building CXX object CMakeFiles\mgm_rife_adapter_test.dir\tests\rife_adapter.cpp.obj
+[12/13] Linking CXX executable mgm_timeline_contracts.exe
+[13/13] Linking CXX executable mgm_rife_adapter_test.exe

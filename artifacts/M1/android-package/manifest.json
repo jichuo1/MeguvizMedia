@@ -1,0 +1,65 @@
+{
+  "result": "PASS",
+  "profile": "android-identity-cpu-reference",
+  "device_executed": false,
+  "bil_qualified": false,
+  "gpu_qualified": false,
+  "api_native_owner_count": 0,
+  "jni_native_owner_count_per_abi": 1,
+  "static_load_initializer": false,
+  "native_payload": [
+    {
+      "abi": "arm64-v8a",
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\native-payload\\arm64-v8a\\libmeguviz_media_identity.so",
+      "source_entry": "jni/arm64-v8a/libmeguviz_media_identity.so",
+      "size": 82152,
+      "sha256": "e30da9100544c42ae7ff44a58f76bb92e9848c2eca53290d9a67b5f09c65350f",
+      "source_aar_sha256": "17651196a87de6bfe7f763a4b51dd1890da6a7fb47ac287852a2347182d13412",
+      "elf_load_alignment": [
+        16384,
+        16384,
+        16384
+      ],
+      "approved_exports": [
+        "Java_io_github_jichuo1_meguviz_media_MediaNative_abiVersion",
+        "Java_io_github_jichuo1_meguviz_media_MediaNative_identityRgb"
+      ],
+      "aar_payload_bytes_equal": true
+    },
+    {
+      "abi": "armeabi-v7a",
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\native-payload\\armeabi-v7a\\libmeguviz_media_identity.so",
+      "source_entry": "jni/armeabi-v7a/libmeguviz_media_identity.so",
+      "size": 48464,
+      "sha256": "dfef437021d8330b36cca77d93e3f39530c3262520c5e33cbe7550d14c1d6fe3",
+      "source_aar_sha256": "17651196a87de6bfe7f763a4b51dd1890da6a7fb47ac287852a2347182d13412",
+      "elf_load_alignment": [
+        16384,
+        16384,
+        16384
+      ],
+      "approved_exports": [
+        "Java_io_github_jichuo1_meguviz_media_MediaNative_abiVersion",
+        "Java_io_github_jichuo1_meguviz_media_MediaNative_identityRgb"
+      ],
+      "aar_payload_bytes_equal": true
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\android\\media-api\\build\\outputs\\aar\\media-api-release.aar",
+      "size": 2441,
+      "sha256": "b483c49d4fc9c0bd8847d36672f1a2410fc5d8528afa36589dab668792b03a1a"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\android\\media-jni\\build\\outputs\\aar\\media-jni-release.aar",
+      "size": 67466,
+      "sha256": "17651196a87de6bfe7f763a4b51dd1890da6a7fb47ac287852a2347182d13412"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\android\\sample-processing\\build\\outputs\\apk\\debug\\sample-processing-debug.apk",
+      "size": 6261603,
+      "sha256": "f8e229de02ae20bc772a447468a6d62fb7f34d9070dca194a87f1c8610a3fbcf"
+    }
+  ]
+}

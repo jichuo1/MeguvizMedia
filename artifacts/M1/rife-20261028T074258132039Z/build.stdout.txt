@@ -1,0 +1,2 @@
+[1/2] Building CXX object CMakeFiles\mgm_rife_adapter_test.dir\tests\rife_adapter.cpp.obj
+[2/2] Linking CXX executable mgm_rife_adapter_test.exe

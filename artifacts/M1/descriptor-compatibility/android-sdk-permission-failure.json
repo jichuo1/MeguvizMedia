@@ -1,0 +1,8 @@
+{
+  "result": "LAUNCH_FAILED",
+  "scope": "INFRASTRUCTURE_BEFORE_COMPILER_EXECUTION",
+  "observed_exception": "PermissionError: [WinError 5] Access is denied",
+  "attempt": "tools/build_android.py with the verified SDK CMake 4.1.2 and NDK 30.0.16248370 under default execution permissions",
+  "resolution": "Reran the same authorized toolchain with execution permission; all six Android SDK configure/build/install commands PASS",
+  "model_or_device_operation": false
+}

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.31)
+project(MediaExternalConsumer LANGUAGES C CXX)
+set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
+find_package(MeguvizMedia CONFIG REQUIRED)
+add_executable(media_external main.c)
+set_target_properties(media_external PROPERTIES LINKER_LANGUAGE CXX)
+target_link_libraries(media_external PRIVATE MeguvizMedia::core)

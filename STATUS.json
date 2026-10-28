@@ -1,0 +1,260 @@
+{
+  "project": "MeguvizMedia",
+  "profile": "bil-rife-ncnn-android",
+  "status": "BLOCKED",
+  "contract_version": "0.1",
+  "completed_scope": "HOST_AND_ANDROID_CPU_REFERENCE_BUILD",
+  "bil_qualified": false,
+  "gpu_qualified": false,
+  "device_executed": false,
+  "stages": [
+    {
+      "id": "M0",
+      "status": "DONE",
+      "result": "PASS",
+      "scope": "SOURCE_BASELINE_HOST_AND_ANDROID_BUILD",
+      "evidence": [
+        "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M0\\source-inventory.json",
+        "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\commands.jsonl",
+        "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\manifest.json"
+      ]
+    },
+    {
+      "id": "M1",
+      "status": "BLOCKED",
+      "completed_subtasks": [
+        "C ABI/frame/clock/epoch",
+        "bounded async identity",
+        "Kotlin oracle normal/delayed parity",
+        "installed external C consumer",
+        "real v4.6 FP32 full-graph adapter and endpoint parity",
+        "one host DSO closure and approved exports",
+        "ARM64/ARMv7 API27 static SDK",
+        "API-only/JNI AAR, explicit loading, independent processing APK",
+        "same-byte identity native-payload, ELF/zip 16KB checks",
+        "bounded descriptor prefix copies and real page-boundary regression"
+      ],
+      "gates": [
+        {
+          "id": "M1.descriptor_compatibility",
+          "result": "PASS",
+          "evidence": [
+            "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\descriptor-compatibility\\summary.json"
+          ]
+        },
+        {
+          "id": "M1.host_reference",
+          "result": "PASS",
+          "evidence": [
+            "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\rife-20261028T083141324374Z\\summary.json",
+            "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\ctest.stdout.txt"
+          ]
+        },
+        {
+          "id": "M1.android_build_package",
+          "result": "PASS",
+          "evidence": [
+            "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\manifest.json"
+          ]
+        },
+        {
+          "id": "M1.android_device_identity",
+          "result": "INCONCLUSIVE",
+          "reason": "No device execution evidence"
+        },
+        {
+          "id": "M1.legacy_bil_host_bridge",
+          "result": "INCONCLUSIVE",
+          "reason": "Full production JNI/HostBridge/Surface/audio integration belongs to I0 and remains incomplete"
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "status": "BLOCKED",
+      "requires": [
+        "C2",
+        "R2",
+        "M1.device"
+      ],
+      "result": "INCONCLUSIVE",
+      "reason": "No qualified Compute/RIFE AHB_HOST_WAIT provider or real EGL/Vulkan memory/lease evidence; new platform path not implemented"
+    },
+    {
+      "id": "M3",
+      "status": "BLOCKED",
+      "requires": [
+        "M2",
+        "C3"
+      ],
+      "result": "INCONCLUSIVE",
+      "reason": "No enabled/probed sync_fd bridge or device retirement evidence"
+    },
+    {
+      "id": "M4",
+      "status": "BLOCKED",
+      "requires": [
+        "M2"
+      ],
+      "result": "INCONCLUSIVE",
+      "reason": "Existing timeline was preserved; no new scheduling optimization or actual-present A/B claim"
+    },
+    {
+      "id": "M5",
+      "status": "BLOCKED",
+      "requires": [
+        "M3",
+        "M4",
+        "C5"
+      ],
+      "result": "INCONCLUSIVE",
+      "reason": "MediaCodec playback sample, multi-device/16KB runtime/long-run/AV qualification remain incomplete"
+    },
+    {
+      "id": "M6",
+      "status": "BLOCKED",
+      "requires": [
+        "M5",
+        "C6",
+        "I4",
+        "R5",
+        "S5"
+      ],
+      "result": "INCONCLUSIVE",
+      "reason": "No official Android RIFE/ncnn or bil-qualified release candidate; current packages are isolated identity/reference artifacts"
+    }
+  ],
+  "commands": [
+    "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\commands.jsonl",
+    "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\rife-20261028T083141324374Z\\commands.jsonl",
+    "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-commands.jsonl",
+    "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\commands.json"
+  ],
+  "artifacts": [
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M0\\source-inventory.json",
+      "size": 881,
+      "sha256": "c95b67169209cf64dd07af827a6389509aff28da0dad6c3934ef62ea71e1219c"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\commands.jsonl",
+      "size": 7579,
+      "sha256": "950db0e9ab790709802588004a2c2f86402f52373e28c47ea16e63958568cec9"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\ctest.stdout.txt",
+      "size": 442,
+      "sha256": "97bd473d9e868e27b4629cd2e4792fe4af364e987ab7787fe273ae6d546f702c"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\cpp_normal.stdout.txt",
+      "size": 469,
+      "sha256": "6493f5a612dcc0b7f1682072b43b7ca97d516820c87e11cf542366478653d2a8"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\kotlin_normal.stdout.txt",
+      "size": 469,
+      "sha256": "6493f5a612dcc0b7f1682072b43b7ca97d516820c87e11cf542366478653d2a8"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\cpp_delayed.stdout.txt",
+      "size": 479,
+      "sha256": "c8d7accfa048448acb62a71a686d0f972ee139dcb409bf2ff093d77f1661e1c1"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\kotlin_delayed.stdout.txt",
+      "size": 479,
+      "sha256": "c8d7accfa048448acb62a71a686d0f972ee139dcb409bf2ff093d77f1661e1c1"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\install\\lib\\meguviz_media_core.lib",
+      "size": 218066,
+      "sha256": "e6601593277fb1e160752408f7f73f1b019db84e15e341d01e72c8b5bbad1a0f"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\rife-20261028T083141324374Z\\summary.json",
+      "size": 2423,
+      "sha256": "6dbd8ec950aae1042515c04346f3afac6554ed1e8638a4d1a22d6467bb725f83"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\manifest.json",
+      "size": 2566,
+      "sha256": "ad245fbd0f02f0e24dfbf283767bcede5d5fd211ab73e8f83ae73c0a28ebce29"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-gradle.stdout.txt",
+      "size": 8744,
+      "sha256": "252c3a3c26f888a166fc91e5d69eed82540256b2396333394d74c6ee09e821d6"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-commands.jsonl",
+      "size": 4600,
+      "sha256": "3f15aa2af9c92eaee409d0c02da1c250c1e56aa5f05509842045bcf95c98a7cd"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-gradle-command.json",
+      "size": 582,
+      "sha256": "3b8303f59c426b091dc0af33343a746411a49ec106b7ac199375aed0bbfe426c"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-arm64-v8a\\manifest.json",
+      "size": 5736,
+      "sha256": "0cc108517448a3558f588cb6e1ff89510d2627e15b62e80c0059fb3e7b012427"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-armeabi-v7a\\manifest.json",
+      "size": 5788,
+      "sha256": "af96e044f781515bb988d47267dafc9dd667998eb794b84a0e234f0776593349"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\ctest-details.stdout.txt",
+      "size": 2408,
+      "sha256": "95b5ba1328e8244a96cc0150670055cfefbeb9abd1e2fcef6dafd60bb68e2e38"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\descriptor-compatibility\\summary.json",
+      "size": 7540,
+      "sha256": "f4991d81d0bb984b92094a9fe687b81f78d3ccad85f565306f9e1bb8ca0d2ca5"
+    }
+  ],
+  "source_manifest": "artifacts/source-manifest.json",
+  "descriptor_revalidation_manifest": "artifacts/M1/descriptor-compatibility/manifest.json",
+  "measurements": {
+    "service_latency": "INCONCLUSIVE",
+    "actual_present_rate": "INCONCLUSIVE",
+    "deadline_miss": "INCONCLUSIVE",
+    "visible_latency": "INCONCLUSIVE",
+    "energy": "INCONCLUSIVE",
+    "av_sync": "INCONCLUSIVE"
+  },
+  "rollback": "bil production path remains untouched by Media. Disable MGM_WITH_RIFE for independent identity-only consumer; no unqualified GPU path enabled.",
+  "known_failed_attempts": [
+    {
+      "evidence": "../coordination/review/abi-boundaries/unoptimized-results.json",
+      "cause": "Original independent consumer observed 0xc0000005 before descriptor-copy repair; preserved unchanged; new real-page-boundary tests PASS"
+    },
+    {
+      "evidence": "artifacts/M1/descriptor-compatibility/android-sdk-permission-failure.json",
+      "cause": "Default execution could not launch installed SDK CMake (WinError 5); exact authorized toolchain rerun with execution permission PASS"
+    },
+    {
+      "evidence": "artifacts/M1/rife-20261028T074258132039Z/adapter.stderr.txt",
+      "cause": "Explicit allocation IDs collided with auto allocation; fixed by Compute owner; original adapter case rerun PASS"
+    },
+    {
+      "evidence": "artifacts/M1/android-gradle-failed-sourceset.stderr.txt",
+      "cause": "AGP sourceSets cast; switched to variant.sources API"
+    },
+    {
+      "evidence": "artifacts/M1/android-gradle-failed-prefix.stderr.txt",
+      "cause": "Cross-package root search; fixed explicit target-specific installed package lookup"
+    }
+  ],
+  "next_actions": [
+    "Independent source/artifact/raw-evidence review using prompts/06_INDEPENDENT_REVIEW.md",
+    "Implement and qualify Compute C2/C3 and RIFE R2 with real Android GPU devices",
+    "Connect OES/AHB/GLES platform chain with full guards and physical lease retirement",
+    "Complete I0 host JNI/cache/Surface/audio bridge without enabling an unqualified path",
+    "Run actual device identity, independent MediaCodec playback, compatibility and sustained AV/quality/performance gates"
+  ]
+}

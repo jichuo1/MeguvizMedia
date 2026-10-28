@@ -1,0 +1,7 @@
+[0/2] Re-checking globbed directories...
+[1/7] Building CXX object CMakeFiles/meguviz_media_core.dir/src/core/timeline.cpp.o
+[2/7] Building CXX object CMakeFiles/meguviz_media_core.dir/src/core/media.cpp.o
+[3/7] Building CXX object compute/CMakeFiles/meguviz_compute_core.dir/src/core/runtime.cpp.o
+[4/7] Linking CXX static library compute\libmeguviz_compute_core.a
+[5/7] Linking CXX static library libmeguviz_media_core.a
+[6/7] Linking CXX executable mgm_trace_replay

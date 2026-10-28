@@ -1,0 +1,18 @@
+{
+  "name": "android_binding_package_revalidation",
+  "cwd": "D:\\MeguvizPack\\MeguvizMedia\\android",
+  "executable": "D:\\MeguvizPack\\MeguvizMedia\\android\\gradlew.bat",
+  "arguments": [
+    "--offline",
+    "--no-daemon",
+    ":media-api:assembleRelease",
+    ":media-jni:assembleRelease",
+    ":sample-processing:assembleDebug"
+  ],
+  "gradle_cache": "D:\\Gradle",
+  "start_utc": "2026-10-28T08:33:42.2350142Z",
+  "end_utc": "2026-10-28T08:34:40.7873010Z",
+  "exit_code": 0,
+  "stdout": "android-gradle.stdout.txt",
+  "stderr": "android-gradle.stderr.txt"
+}

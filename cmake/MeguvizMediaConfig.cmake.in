@@ -1,0 +1,9 @@
+@PACKAGE_INIT@
+include(CMakeFindDependencyMacro)
+find_dependency(MeguvizCompute CONFIG REQUIRED)
+find_dependency(Threads REQUIRED)
+if(@MGM_WITH_RIFE@)
+  find_dependency(MeguvizRIFE CONFIG REQUIRED)
+endif()
+include("${CMAKE_CURRENT_LIST_DIR}/MeguvizMediaTargets.cmake")
+check_required_components(MeguvizMedia)

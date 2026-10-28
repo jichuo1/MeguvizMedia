@@ -1,0 +1,9 @@
+Test project D:/MeguvizPack/MeguvizMedia/build/host-rife
+    Start 1: public_c_identity
+1/2 Test #1: public_c_identity ................   Passed    0.71 sec
+    Start 2: timeline_lifecycle
+2/2 Test #2: timeline_lifecycle ...............   Passed    0.73 sec
+
+100% tests passed, 0 tests failed out of 2
+
+Total Test time (real) =   1.44 sec

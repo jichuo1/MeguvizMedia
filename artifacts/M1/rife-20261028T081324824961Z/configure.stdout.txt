@@ -1,0 +1,4 @@
+-- Found ncnn: 20261020
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/MeguvizPack/MeguvizMedia/build/host-rife

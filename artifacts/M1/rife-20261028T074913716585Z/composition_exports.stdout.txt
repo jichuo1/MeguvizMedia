@@ -1,0 +1,94 @@
+Microsoft (R) COFF/PE Dumper Version 14.51.36247.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file D:\MeguvizPack\MeguvizMedia\build\composition-host\meguviz_composition_fixture.dll
+
+File Type: DLL
+
+  Section contains the following exports for meguviz_composition_fixture.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          64 number of functions
+          64 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00022520 mgc_android_export_release_fence
+          2    1 00022540 mgc_android_import
+          3    2 00022560 mgc_domain_acquire
+          4    3 00022870 mgc_domain_capability
+          5    4 00022950 mgc_domain_identity
+          6    5 00022980 mgc_domain_release
+          7    6 00004E50 mgc_domain_retain
+          8    7 00022A90 mgc_lease_create
+          9    8 00022D80 mgc_lease_info
+         10    9 00022E80 mgc_lease_map
+         11    A 00022FE0 mgc_lease_release
+         12    B 00004E50 mgc_lease_retain
+         13    C 00023090 mgc_lease_unmap
+         14    D 000233C0 mgc_query_build_info
+         15    E 000234A0 mgc_resource_create
+         16    F 00023A00 mgc_resource_release
+         17   10 00004E50 mgc_resource_retain
+         18   11 00023BA0 mgc_runtime_close
+         19   12 00023C20 mgc_runtime_create
+         20   13 00023D70 mgc_runtime_release
+         21   14 00004E50 mgc_runtime_retain
+         22   15 00023D90 mgc_session_close
+         23   16 00023ED0 mgc_session_create
+         24   17 00024200 mgc_session_drain
+         25   18 00024440 mgc_submit
+         26   19 000246A0 mgc_ticket_cancel
+         27   1A 00024720 mgc_ticket_query
+         28   1B 000247F0 mgc_ticket_release
+         29   1C 00004E50 mgc_ticket_retain
+         30   1D 000010C0 mgm_composition_fixture_abi
+         31   1E 00004B60 mgm_frame_create
+         32   1F 00004D90 mgm_frame_describe
+         33   20 00004E10 mgm_frame_release
+         34   21 00004E50 mgm_frame_retain
+         35   22 00004E60 mgm_identity_effect_create
+         36   23 00005070 mgm_identity_effect_release
+         37   24 00002510 mgm_planner_begin
+         38   25 00002620 mgm_planner_clock
+         39   26 00002920 mgm_planner_commit
+         40   27 00002A40 mgm_planner_create
+         41   28 00002E60 mgm_planner_offer
+         42   29 00003220 mgm_planner_plan
+         43   2A 00003BB0 mgm_planner_release
+         44   2B 00003C30 mgm_planner_valid
+         45   2C 00001C10 mgm_rife_effect_create
+         46   2D 00001D90 mgm_rife_effect_release
+         47   2E 00003CF0 mgm_ticks_to_ns
+         48   2F 000051D0 mgm_timeline_create
+         49   30 00005300 mgm_timeline_may_present
+         50   31 00005390 mgm_timeline_release
+         51   32 000053A0 mgm_timeline_reset
+         52   33 0001C800 mgr_cancel
+         53   34 0001C810 mgr_drain
+         54   35 0001C830 mgr_model_create
+         55   36 0001E180 mgr_model_release
+         56   37 00004E50 mgr_model_retain
+         57   38 0001E1D0 mgr_plan_create
+         58   39 0001E820 mgr_plan_release
+         59   3A 00004E50 mgr_plan_retain
+         60   3B 0001E840 mgr_result_describe
+         61   3C 0001E8C0 mgr_result_release
+         62   3D 0001E8F0 mgr_session_close
+         63   3E 0001E950 mgr_session_create
+         64   3F 0001EA70 mgr_submit
+
+  Summary
+
+        5000 .data
+        1000 .fptable
+        E000 .pdata
+       44000 .rdata
+        2000 .reloc
+        1000 .rsrc
+      2C0000 .text
+        B000 _RDATA

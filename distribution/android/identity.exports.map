@@ -1,0 +1,6 @@
+{
+  global:
+    Java_io_github_jichuo1_meguviz_media_MediaNative_abiVersion;
+    Java_io_github_jichuo1_meguviz_media_MediaNative_identityRgb;
+  local: *;
+};

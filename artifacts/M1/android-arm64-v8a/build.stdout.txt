@@ -1,0 +1,6 @@
+[0/2] Re-checking globbed directories...
+[1/6] Building CXX object CMakeFiles/mgm_trace_replay.dir/examples/headless_timeline.cpp.o
+[2/6] Building CXX object CMakeFiles/meguviz_media_core.dir/src/core/timeline.cpp.o
+[3/6] Building CXX object CMakeFiles/meguviz_media_core.dir/src/core/media.cpp.o
+[4/6] Linking CXX static library libmeguviz_media_core.a
+[5/6] Linking CXX executable mgm_trace_replay

@@ -1,0 +1,8 @@
+/build/
+*.obj
+*.pdb
+__pycache__/
+/android/.gradle/
+/android/**/build/
+/android/**/.cxx/
+/android/local.properties

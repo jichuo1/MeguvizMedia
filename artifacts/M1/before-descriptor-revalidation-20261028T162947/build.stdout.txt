@@ -1,0 +1,9 @@
+[0/2] Re-checking globbed directories...
+[1/9] Building CXX object CMakeFiles\meguviz_media_core.dir\src\core\media.cpp.obj
+[2/9] Building CXX object CMakeFiles\meguviz_media_core.dir\src\core\timeline.cpp.obj
+[3/9] Linking CXX static library meguviz_media_core.lib
+[4/9] Linking CXX executable mgm_trace_replay.exe
+[5/9] Building CXX object CMakeFiles\mgm_abi_guard_pages.dir\tests\abi_guard_pages.cpp.obj
+[6/9] Linking CXX executable mgm_c_consumer.exe
+[7/9] Linking CXX executable mgm_timeline_contracts.exe
+[8/9] Linking CXX executable mgm_abi_guard_pages.exe

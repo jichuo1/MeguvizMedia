@@ -1,0 +1,14 @@
+-- Install configuration: "Release"
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/lib/meguviz_media_rife_integration.lib
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/lib/meguviz_media_core.lib
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/include
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/include/meguviz
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/include/meguviz/media.h
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/include/meguviz/media_rife.h
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/include/meguviz/timeline.h
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/lib/cmake/MeguvizMedia/MeguvizMediaTargets.cmake
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/lib/cmake/MeguvizMedia/MeguvizMediaTargets-release.cmake
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/lib/cmake/MeguvizMedia/MeguvizMediaConfig.cmake
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/lib/cmake/MeguvizMedia/MeguvizMediaConfigVersion.cmake
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/share/MeguvizMedia/LICENSE
+-- Installing: D:\MeguvizPack\MeguvizMedia\artifacts\M1\rife-20261028T081324824961Z\install/share/MeguvizMedia/NOTICE.md

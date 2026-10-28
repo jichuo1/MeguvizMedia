@@ -1,0 +1,49 @@
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/9.8.2/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+> Task :media-api:preBuild UP-TO-DATE
+> Task :media-api:preReleaseBuild UP-TO-DATE
+> Task :media-api:checkReleaseAarMetadata
+> Task :media-api:mergeReleaseJniLibFolders
+> Task :media-api:mergeReleaseNativeLibs NO-SOURCE
+> Task :media-api:stripReleaseDebugSymbols NO-SOURCE
+> Task :media-api:copyReleaseJniLibsProjectAndLocalJars
+> Task :media-api:extractDeepLinksForAarRelease
+> Task :media-api:generateReleaseResources
+> Task :media-api:packageReleaseResources
+> Task :media-api:processReleaseNavigationResources
+> Task :media-api:generateReleaseAssets UP-TO-DATE
+> Task :media-api:mergeReleaseAssets
+> Task :media-api:javaPreCompileRelease
+> Task :media-api:prepareLintJarForPublish
+> Task :media-api:prepareReleaseArtProfile
+> Task :media-api:mapReleaseSourceSetPaths
+> Task :media-api:parseReleaseLocalResources
+> Task :media-api:writeReleaseAarMetadata
+> Task :media-api:mergeReleaseResources
+> Task :media-jni:preBuild UP-TO-DATE
+> Task :media-jni:preReleaseBuild UP-TO-DATE
+> Task :media-jni:checkReleaseAarMetadata
+> Task :media-api:generateReleaseRFile
+> Task :media-api:processReleaseManifest
+
+> Task :media-jni:configureCMakeRelWithDebInfo[arm64-v8a]
+C/C++: CMake Error at CMakeLists.txt:16 (find_package):
+C/C++:   Could not find a package configuration file provided by "MeguvizMedia" with
+C/C++:   any of the following names:
+C/C++:     MeguvizMediaConfig.cmake
+C/C++:     meguvizmedia-config.cmake
+C/C++:   Add the installation prefix of "MeguvizMedia" to CMAKE_PREFIX_PATH or set
+C/C++:   "MeguvizMedia_DIR" to a directory containing one of the above files.  If
+C/C++:   "MeguvizMedia" provides a separate development package or SDK, be sure it
+C/C++:   has been installed.
+
+> Task :media-jni:configureCMakeRelWithDebInfo[arm64-v8a] FAILED
+
+[Incubating] Problems report is available at: file:///D:/MeguvizPack/MeguvizMedia/android/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.8.2/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+19 actionable tasks: 19 executed

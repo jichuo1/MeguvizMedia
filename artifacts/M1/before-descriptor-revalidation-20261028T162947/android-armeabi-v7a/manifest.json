@@ -1,0 +1,133 @@
+{
+  "scope": "ANDROID_CPU_REFERENCE_CROSS_BUILD_ONLY",
+  "abi": "armeabi-v7a",
+  "device_executed": false,
+  "ncnn_vulkan_qualified": false,
+  "artifacts": [
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\compute.h",
+      "size": 8879,
+      "sha256": "7091507589a1f16b473d6832c67436e6a323c87d2a2c38338442ea04abb60c60"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\compute_android.h",
+      "size": 1194,
+      "sha256": "86c1646eb2f6220af01fc521a8b05e4c0fb088ab37a2df8dc99d11de0128d2b4"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\kernels.h",
+      "size": 1329,
+      "sha256": "f4526da6a6885fc97a14d3274518ed06467b77992f08cd75cd0341ea51f8e8b0"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\media.h",
+      "size": 4013,
+      "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\media_rife.h",
+      "size": 405,
+      "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\include\\meguviz\\timeline.h",
+      "size": 2843,
+      "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\build-info.json",
+      "size": 1413,
+      "sha256": "3f808b63b8292052ddbceab62a1ba5d5f3b03f629ce166ba7ccddf756f703fdf"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeConfig.cmake",
+      "size": 1833,
+      "sha256": "89ac4e4f1b399e828129ef0d3d31c5721d6e927eaa2bc7b3c4d3314db8f7cc16"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeConfigVersion.cmake",
+      "size": 2827,
+      "sha256": "335dedd39b9f48a73db107bd07125c5801dfc2c6f59c3e4f1cd103c25288df06"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeTargets-release.cmake",
+      "size": 920,
+      "sha256": "7e53af2a4d3192401e615c142213087cf846b821f0e7bfa3d451b9304a121f3c"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizCompute\\MeguvizComputeTargets.cmake",
+      "size": 4548,
+      "sha256": "270e8ff2ec4392aaae08261661ec19ba1c2327b8bad3ee9d79f4c04b839a3158"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfig.cmake",
+      "size": 1200,
+      "sha256": "3de98295e57217a240df5ab4276ddf6a98a8bc3fac98abe6d35ff0abf91b4ed8"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaConfigVersion.cmake",
+      "size": 2827,
+      "sha256": "335dedd39b9f48a73db107bd07125c5801dfc2c6f59c3e4f1cd103c25288df06"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets-release.cmake",
+      "size": 906,
+      "sha256": "4609bef8a2a7855707eaa247851a39657adac96c1be818c39fc4d93fb08dd8af"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\cmake\\MeguvizMedia\\MeguvizMediaTargets.cmake",
+      "size": 5124,
+      "sha256": "ef0530deaa2359236425ee511f612b6402c04b6ffa77bc9f65fba86a69377ffb"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\libmeguviz_compute_core.a",
+      "size": 601680,
+      "sha256": "cf00de068b39a3d7e91d95a9b60a6d1bff725dbc3a940a9b1a812a4d0d7611c7"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\lib\\libmeguviz_media_core.a",
+      "size": 300228,
+      "sha256": "c1438a014c244d88d0e4db9463427b178206f0c5cddb16527dc9a5d08788948c"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizCompute\\LICENSE",
+      "size": 1071,
+      "sha256": "de0ff48d4a5e2df2299de5c3233091567f5112dcc48c7593e98d77db543591a1"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizCompute\\ncnn.lock.json",
+      "size": 454,
+      "sha256": "085e0bf62860d25c7becc808e4e445269f264e8fc511467fc986d0e7e172c5db"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizCompute\\NOTICE.md",
+      "size": 425,
+      "sha256": "38a0d81b27a11d909f9a42ffc849b17815ba86344c10bef79e7811738527d44e"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizCompute\\SBOM.json",
+      "size": 744,
+      "sha256": "d2683a39f2b75826ec4200947f1aa7ca98e343c617451bb593d75cddf66d4e1b"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizCompute\\shaderpack\\shaderpack.schema.json",
+      "size": 4154,
+      "sha256": "e18d92e7ef67961412e48c4c7774ad9fa4c3977855b1db9e81051b89691a83df"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizCompute\\shaderpack\\source.lock.json",
+      "size": 202,
+      "sha256": "38221d4c4883ff5a4949debe84718cbb19989da8c75443ba6938729efbaf5284"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizMedia\\LICENSE",
+      "size": 35823,
+      "sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809"
+    },
+    {
+      "path": "artifacts\\M1\\android-armeabi-v7a\\install\\share\\MeguvizMedia\\NOTICE.md",
+      "size": 634,
+      "sha256": "d6a9abb90563b602972e6886c871bb90e1f19296597cf3768e89e55bd3db7fe7"
+    }
+  ]
+}

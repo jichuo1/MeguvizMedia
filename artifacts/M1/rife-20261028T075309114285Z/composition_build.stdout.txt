@@ -1,0 +1,1 @@
+[1/1] Linking CXX shared library meguviz_composition_fixture.dll

@@ -1,0 +1,1 @@
+{"result":"PASS","scope":"cpu_fp32_full_graph_media_adapter","endpoint_bitwise":true,"inferred_alpha":0.5,"gpu_qualified":false,"bil_qualified":false}

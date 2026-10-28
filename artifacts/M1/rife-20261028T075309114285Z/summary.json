@@ -1,0 +1,57 @@
+{
+  "result": "PASS",
+  "scope": "HOST_CPU_REFERENCE_COMPOSITION_FIXTURE",
+  "model_inference_adapter": true,
+  "endpoint_bitwise": true,
+  "approved_export_count": 64,
+  "single_meguviz_dso": true,
+  "android_qualified": false,
+  "bil_qualified": false,
+  "artifacts": [
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\build\\composition-host\\meguviz_composition_fixture.dll",
+      "size": 3278336,
+      "sha256": "7892390f4a0b7cc8c415347c1a492e98aac3e33468b3cd3f1785fff279858ce2"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizCompute\\build\\install\\windows-cpu\\include\\meguviz\\compute.h",
+      "size": 8879,
+      "sha256": "7091507589a1f16b473d6832c67436e6a323c87d2a2c38338442ea04abb60c60"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizCompute\\build\\install\\windows-cpu\\include\\meguviz\\compute_android.h",
+      "size": 1194,
+      "sha256": "86c1646eb2f6220af01fc521a8b05e4c0fb088ab37a2df8dc99d11de0128d2b4"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizCompute\\build\\install\\windows-cpu\\include\\meguviz\\kernels.h",
+      "size": 1329,
+      "sha256": "f4526da6a6885fc97a14d3274518ed06467b77992f08cd75cd0341ea51f8e8b0"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizRIFE\\build\\install\\windows-reference\\include\\meguviz\\rife.h",
+      "size": 3785,
+      "sha256": "0fbbc0e4ddb8d846f500c0c499ff07da4459d94a657530747feaff39bb1819d9"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\rife-20261028T075309114285Z\\install\\include\\meguviz\\media.h",
+      "size": 4013,
+      "sha256": "0906f982a542e129072572eb38ed0fff774886d6407ed959bfd8e0ca9966f3a8"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\rife-20261028T075309114285Z\\install\\include\\meguviz\\media_rife.h",
+      "size": 405,
+      "sha256": "8939fea96846f9a201f014b76faa3edcc41b2f86a89fc4cca2602c205c79f3d2"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\rife-20261028T075309114285Z\\install\\include\\meguviz\\timeline.h",
+      "size": 2843,
+      "sha256": "e2fa75356f0276c8b5c13347a68a5ab786d69620cab6f56c01d8c5e004b60d53"
+    },
+    {
+      "path": "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\rife-20261028T075309114285Z\\approved-exports.def",
+      "size": 1274,
+      "sha256": "bec9667fbec393a9e71807c6d067798463a343f02f8c430da2178b7c98e40700"
+    }
+  ]
+}

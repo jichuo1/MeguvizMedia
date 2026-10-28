@@ -1,0 +1,84 @@
+[
+  {
+    "name": "api_bytecode",
+    "argv": [
+      "javap",
+      "-classpath",
+      "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\api-classes.jar",
+      "-c",
+      "-p",
+      "io.github.jichuo1.meguviz.media.MediaRuntime",
+      "io.github.jichuo1.meguviz.media.MediaNative"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "arm64-v8a_program_headers",
+    "argv": [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\30.0.16248370\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-readelf.exe",
+      "-lW",
+      "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\native-payload\\arm64-v8a\\libmeguviz_media_identity.so"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "arm64-v8a_symbols",
+    "argv": [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\30.0.16248370\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-readelf.exe",
+      "--dyn-syms",
+      "--wide",
+      "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\native-payload\\arm64-v8a\\libmeguviz_media_identity.so"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "arm64-v8a_dynamic",
+    "argv": [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\30.0.16248370\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-readelf.exe",
+      "-dW",
+      "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\native-payload\\arm64-v8a\\libmeguviz_media_identity.so"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "armeabi-v7a_program_headers",
+    "argv": [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\30.0.16248370\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-readelf.exe",
+      "-lW",
+      "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\native-payload\\armeabi-v7a\\libmeguviz_media_identity.so"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "armeabi-v7a_symbols",
+    "argv": [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\30.0.16248370\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-readelf.exe",
+      "--dyn-syms",
+      "--wide",
+      "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\native-payload\\armeabi-v7a\\libmeguviz_media_identity.so"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "armeabi-v7a_dynamic",
+    "argv": [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\30.0.16248370\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\llvm-readelf.exe",
+      "-dW",
+      "D:\\MeguvizPack\\MeguvizMedia\\artifacts\\M1\\android-package\\native-payload\\armeabi-v7a\\libmeguviz_media_identity.so"
+    ],
+    "exit_code": 0
+  },
+  {
+    "name": "apk_zip_alignment",
+    "argv": [
+      "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\build-tools\\37.0.0\\zipalign.exe",
+      "-c",
+      "-P",
+      "16",
+      "-v",
+      "4",
+      "D:\\MeguvizPack\\MeguvizMedia\\android\\sample-processing\\build\\outputs\\apk\\debug\\sample-processing-debug.apk"
+    ],
+    "exit_code": 0
+  }
+]

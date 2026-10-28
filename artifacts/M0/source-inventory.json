@@ -1,0 +1,16 @@
+{
+  "source_repo": "D:/Bilibili_Innocent_Lab",
+  "source_commit": "74d78e19095baa006b1315001190241952f1b84a",
+  "files": [
+    {
+      "path": "D:\\Bilibili_Innocent_Lab\\Bilibili_Innocent_Lab\\app\\src\\main\\java\\com\\Bilibili_Innocent_Lab\\xposedmodule\\hook\\feature\\interpolation\\FrameTimeline.kt",
+      "sha256": "dc6099ea756b1f279d1e42dad5fa9fbf7dce4a8e6e88282c3f7f6584eb46c2d3"
+    },
+    {
+      "path": "D:\\Bilibili_Innocent_Lab\\Bilibili_Innocent_Lab\\app\\src\\main\\java\\com\\Bilibili_Innocent_Lab\\xposedmodule\\hook\\feature\\interpolation\\FrameRateTarget.kt",
+      "sha256": "bbb2dbaec4280077a1bbcac49f082072b34578ced7c557d1fac19f9e12fa8a59"
+    }
+  ],
+  "oracle_jar_sha256": "45ee07743b5a2c87052e532c9c47a14177c17eb9483275385ce2dc8f7465c6b6",
+  "kotlin_compiler_sha256": "ef19419c765e7ac8404465fa026ca8fc4dbb8a822de0fc79aa53c8dce29f1d02"
+}

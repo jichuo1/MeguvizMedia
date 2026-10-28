@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "scope": "HOST_CPU_AND_ANDROID_IDENTITY_DEVELOPMENT_NOT_BIL_QUALIFIED",
+  "artifacts": [
+    {
+      "path": "STATUS.json",
+      "size_bytes": 10152,
+      "sha256": "b4c55b4ca17ec59d5a866d709c2150fddb336a2eedf85feaa101b0f4f2c8b14c"
+    },
+    {
+      "path": "artifacts/source-manifest.json",
+      "size_bytes": 6575,
+      "sha256": "0c9d44a0dc4fb7ad3eb333adf284bd9c633031a5c0d2cf080e698c08215a03da"
+    },
+    {
+      "path": "artifacts/M1/descriptor-compatibility/summary.json",
+      "size_bytes": 7540,
+      "sha256": "f4991d81d0bb984b92094a9fe687b81f78d3ccad85f565306f9e1bb8ca0d2ca5"
+    },
+    {
+      "path": "artifacts/M1/descriptor-compatibility/manifest.json",
+      "size_bytes": 5203,
+      "sha256": "7ef8039bd93df0070d9fa5b6c0407f750d2a52a6c555971bcf808896dbe189c8"
+    },
+    {
+      "path": "artifacts/M1/android-package/manifest.json",
+      "size_bytes": 2566,
+      "sha256": "ad245fbd0f02f0e24dfbf283767bcede5d5fd211ab73e8f83ae73c0a28ebce29"
+    }
+  ]
+}

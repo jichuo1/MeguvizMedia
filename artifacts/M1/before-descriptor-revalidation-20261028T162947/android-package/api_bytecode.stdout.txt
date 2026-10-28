@@ -1,0 +1,95 @@
+Compiled from "MediaRuntime.java"
+public final class io.github.jichuo1.meguviz.media.MediaRuntime {
+  private static volatile boolean attached;
+
+  private io.github.jichuo1.meguviz.media.MediaRuntime();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+
+  public static synchronized void loadPackagedIdentity();
+    Code:
+       0: ldc           #7                  // String meguviz_media_identity
+       2: invokestatic  #9                  // Method java/lang/System.loadLibrary:(Ljava/lang/String;)V
+       5: invokestatic  #15                 // Method attachAlreadyLoaded:()V
+       8: return
+
+  public static synchronized void loadValidatedAbsolutePath(java.lang.String) throws java.io.IOException;
+    Code:
+       0: new           #20                 // class java/io/File
+       3: dup
+       4: aload_0
+       5: invokespecial #22                 // Method java/io/File."<init>":(Ljava/lang/String;)V
+       8: astore_1
+       9: aload_1
+      10: invokevirtual #24                 // Method java/io/File.isAbsolute:()Z
+      13: ifeq          34
+      16: aload_1
+      17: invokevirtual #28                 // Method java/io/File.getCanonicalPath:()Ljava/lang/String;
+      20: aload_0
+      21: invokevirtual #32                 // Method java/lang/String.equals:(Ljava/lang/Object;)Z
+      24: ifeq          34
+      27: aload_1
+      28: invokevirtual #38                 // Method java/io/File.isFile:()Z
+      31: ifne          44
+      34: new           #41                 // class java/io/IOException
+      37: dup
+      38: ldc           #43                 // String Expected an existing canonical native library path
+      40: invokespecial #45                 // Method java/io/IOException."<init>":(Ljava/lang/String;)V
+      43: athrow
+      44: aload_0
+      45: invokestatic  #46                 // Method java/lang/System.load:(Ljava/lang/String;)V
+      48: invokestatic  #15                 // Method attachAlreadyLoaded:()V
+      51: return
+
+  public static synchronized void attachAlreadyLoaded();
+    Code:
+       0: invokestatic  #49                 // Method io/github/jichuo1/meguviz/media/MediaNative.abiVersion:()I
+       3: iconst_1
+       4: if_icmpeq     17
+       7: new           #55                 // class java/lang/LinkageError
+      10: dup
+      11: ldc           #57                 // String Unsupported Media ABI
+      13: invokespecial #59                 // Method java/lang/LinkageError."<init>":(Ljava/lang/String;)V
+      16: athrow
+      17: iconst_1
+      18: putstatic     #60                 // Field attached:Z
+      21: return
+
+  public static byte[] identityRgb(byte[], int, int, int);
+    Code:
+       0: getstatic     #60                 // Field attached:Z
+       3: ifne          16
+       6: new           #64                 // class java/lang/IllegalStateException
+       9: dup
+      10: ldc           #66                 // String Attach the validated native library first
+      12: invokespecial #68                 // Method java/lang/IllegalStateException."<init>":(Ljava/lang/String;)V
+      15: athrow
+      16: invokestatic  #69                 // Method android/os/Looper.myLooper:()Landroid/os/Looper;
+      19: invokestatic  #75                 // Method android/os/Looper.getMainLooper:()Landroid/os/Looper;
+      22: if_acmpne     35
+      25: new           #64                 // class java/lang/IllegalStateException
+      28: dup
+      29: ldc           #78                 // String Use a worker for frame processing
+      31: invokespecial #68                 // Method java/lang/IllegalStateException."<init>":(Ljava/lang/String;)V
+      34: athrow
+      35: aload_0
+      36: iload_1
+      37: iload_2
+      38: iload_3
+      39: invokestatic  #80                 // Method io/github/jichuo1/meguviz/media/MediaNative.identityRgb:([BIII)[B
+      42: areturn
+}
+Compiled from "MediaNative.java"
+final class io.github.jichuo1.meguviz.media.MediaNative {
+  private io.github.jichuo1.meguviz.media.MediaNative();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+
+  static native int abiVersion();
+
+  static native byte[] identityRgb(byte[], int, int, int);
+}
